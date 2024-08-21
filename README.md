@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rnrroah@gmail.com**
 
-- ⚡ Fun fact **I'm a jack of multiple trades: I sing, play guitar, write poems and short stories, play badminton, chess and am supper into coding.**
+- ⚡ Fun fact <br>**I'm a jack of multiple trades: <br>I sing, play guitar, write poems and short stories, play badminton, chess and am supper into coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
