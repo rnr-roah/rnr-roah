@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Shah</h1>
 <h3 align="center">A passionate linux and software enthusiast from Nepal.</h3>
-
+<img align="right" alt="animated typing" width="400" src="https://tenor.com/view/key-click-typing-anime-gif-17921729">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnr-roah&label=Profile%20views&color=0e75b6&style=flat" alt="rnr-roah" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Roah OS**
