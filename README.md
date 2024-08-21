@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnr-roah&label=Profile%20views&color=0e75b6&style=flat" alt="rnr-roah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rnr-roah" alt="rnr-roah" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -15,7 +14,7 @@
 
 - 💬 Ask me about **linux, python, html, css, javascript, and php**
 
-- 📫 How to reach me **rnrroah2gmail.com**
+- 📫 How to reach me **rnrroah@gmail.com**
 
 - ⚡ Fun fact **I'm a jack of multiple trades: I sing, play guitar, write poems and short stories, play badminton, chess and am supper into coding.**
 
