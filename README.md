@@ -7,7 +7,9 @@
 <p><img align="right" alt="animated typing" width="400" src="https://media1.tenor.com/m/exuPwTTU-FwAAAAC/key-click-typing.gif"></p>
 <br>
 - 🔭 I’m currently working on **Roah OS**
+
 - 💬 Ask me about **linux, python, html, css, javascript, and php**
+  
 - 📫 How to reach me **rnrroah@gmail.com**
 
 - ⚡ Fun fact : . . .
