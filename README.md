@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **linux, python, html, css, javascript, and php**
   
-- 📫 How to reach me: <a href="fb.com/rnr.roah">Facebook</a>, <a href="instagram.com/rnr.roah">Instagram</a>, or <a href="mailto:rnrroah@gmail.com">Send me an email</a>
+- 📫 How to reach me: <a href="https://fb.com/rnr.roah">Facebook</a>, <a href="https://instagram.com/rnr.roah">Instagram</a>, or <a href="mailto:rnrroah@gmail.com">Send me an email</a>
 >
 
 <br><br>
