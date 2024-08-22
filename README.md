@@ -4,16 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnr-roah&label=Profile%20views&color=0e75b6&style=flat" alt="rnr-roah" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt=""></a> 
 </p>
-<p><img align="right" alt="animated typing" width="400" src="https://media1.tenor.com/m/exuPwTTU-FwAAAAC/key-click-typing.gif"></p>
+<p><img align="right" alt="animated typing" width="400" src="https://media1.tenor.com/m/exuPwTTU-FwAAAAC/key-click-typing.gif"></p><br>
 
 - 🔭 I’m currently working on **Roah OS**
 
 - 💬 Ask me about **linux, python, html, css, javascript, and php**
   
-- 📫 How to reach me <a href="rnrroah@gmail.com" target="blank">**rnrroah@gmail.com**</a>
+- 📫 How to reach me: <a href="rnrroah@gmail.com" target="blank">**Email**</a>
 
-- ⚡ Fun fact : ... 
-   ps: i am boring
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
