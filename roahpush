@@ -1,0 +1,11 @@
+#!/bin/bash
+(
+  cd /home/roah/git-files/roah/ || exit 1
+  echo "Enter Commit Message:"
+  read ans
+  git add .
+  git commit -m "$ans"
+  git push
+)
+# Automatically back to original directory after this block
+
