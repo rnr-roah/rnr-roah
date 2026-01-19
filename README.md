@@ -11,4 +11,4 @@
 - 💬 Ask me about **linux, python, html, css, javascript, and php**
   
 - 📫 How to reach me: <a href="https://fb.com/rnr.roah">Facebook</a>, <a href="https://instagram.com/rnr.roah">Instagram</a>, or <a href="mailto:rnrroah@gmail.com">Send me an email</a>
-- 🕸️ Visit my portfolio website: <a href="https://rnr-roah.github.io/roah">Portfolio -Rohit</a>
+- 🕸️ Visit my portfolio website: <a href="https://roah.dev">Portfolio -Rohit</a>
